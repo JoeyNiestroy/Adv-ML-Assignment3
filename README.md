@@ -2,7 +2,7 @@
 Implementing SCAD regression and convergence simulation with comparison
 
 Jupyter Contains all the code
-## Visualization##
+## Visualization ##
 
 ### SCAD Penalty: ###
 
